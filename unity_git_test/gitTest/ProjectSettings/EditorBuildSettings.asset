@@ -4,4 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/seisyun/Scenes/Title.unity
+  - enabled: 1
+    path: Assets/seisyun/Scenes/seisyun.unity
+  - enabled: 1
+    path: Assets/seisyun/Scenes/Result.unity
